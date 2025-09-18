@@ -5,13 +5,13 @@
     padding: 0;
     margin: 0;
     font-family: 'outfit', sans-serif;
+    overflow: hidden;
 }
 
 .container {
     background: #D5E1EF;
     height: 100vh;
     position: relative;
-    overflow-y: hidden;
 }
 
 .qr__wrapper {
